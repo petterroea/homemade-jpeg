@@ -7,8 +7,10 @@ After: ![after](docs/testimg/testpng_out_post_compress.png)
 
 ## Human test
 
-Before: ![before](docs/human/testimg.png)
+Before: ![before](docs/human/testimg_human_2.png)
 After: ![after](docs/human/testpng_out_post_compress.png)
+
+(12% of original file size when compressed in my file format, 6% of original size when further gzipped)
 
 Credits: https://unsplash.com/photos/JxfYO0hhZGQ
 
