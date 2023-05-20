@@ -3,7 +3,7 @@
 Fun weekend project
 
 Before: ![before](docs/testimg.png)
-After: ![after](docs/testimg_out_post_compress.png)
+After: ![after](docs/testpng_out_post_compress.png)
 
 ## Credits
 
