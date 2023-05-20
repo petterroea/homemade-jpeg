@@ -38,6 +38,7 @@ void build_lookup_table() {
     }
 }
 
+// https://www.geeksforgeeks.org/discrete-cosine-transform-algorithm-program/
 void do_dct(unsigned char* square, float* dct) {
     int i, j, k, l;
  

@@ -2,8 +2,15 @@
 
 Fun weekend project
 
-Before: ![before](docs/testimg.png)
-After: ![after](docs/testpng_out_post_compress.png)
+Before: ![before](docs/testimg/testimg.png)
+After: ![after](docs/testimg/testpng_out_post_compress.png)
+
+## Human test
+
+Before: ![before](docs/human/testimg.png)
+After: ![after](docs/human/testpng_out_post_compress.png)
+
+Credits: https://unsplash.com/photos/JxfYO0hhZGQ
 
 ## Credits
 
